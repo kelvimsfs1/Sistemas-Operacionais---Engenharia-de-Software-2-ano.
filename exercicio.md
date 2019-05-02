@@ -13,6 +13,8 @@ read nome
 
 echo "Bom dia $nome"
 
+
+
 exercicio 2
 
 vi exercicio2.txt
@@ -30,6 +32,8 @@ read v2
 resultado= $(($v1*$v2))
 
 echo "o resultado da multiplicação é $z"
+
+
 
 exercicio 3
 
@@ -53,6 +57,9 @@ elif [ $x -lt 0 ]; then
   
 fi
 
+
+
+
 exercicio 4
 
 vi tabuada.txt
@@ -74,6 +81,9 @@ do
       echo "$numero x $x = $conta"
  
 done
+
+
+
 
 Exercicio 5
 
