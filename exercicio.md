@@ -1,7 +1,7 @@
 # sop_exer_terminal_shellscript
 Respostas do exercício de sop
 
-exercio 1
+exercicio 1
 
 vi exercicio1.txt
 
@@ -13,7 +13,7 @@ read nome
 
 echo "Bom dia $nome"
 
-
+__________
 
 exercicio 2
 
@@ -33,7 +33,7 @@ resultado= $(($v1*$v2))
 
 echo "o resultado da multiplicação é $z"
 
-
+__________
 
 exercicio 3
 
@@ -57,7 +57,7 @@ elif [ $x -lt 0 ]; then
   
 fi
 
-
+__________
 
 
 exercicio 4
@@ -82,7 +82,7 @@ do
  
 done
 
-
+__________
 
 
 Exercicio 5
